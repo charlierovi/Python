@@ -1,0 +1,4 @@
+Primera practica de fitxers
+Segona prova de frase
+Tercera prova de frase
+Hola, ya funciona correctamente el codigo
